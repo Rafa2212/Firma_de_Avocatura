@@ -1,0 +1,15 @@
+/Users/rafa22/Desktop/app/bin/Debug/net6.0/app
+/Users/rafa22/Desktop/app/bin/Debug/net6.0/app.deps.json
+/Users/rafa22/Desktop/app/bin/Debug/net6.0/app.runtimeconfig.json
+/Users/rafa22/Desktop/app/bin/Debug/net6.0/app.dll
+/Users/rafa22/Desktop/app/bin/Debug/net6.0/app.pdb
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.csproj.AssemblyReference.cache
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.AssemblyInfoInputs.cache
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.AssemblyInfo.cs
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.csproj.CoreCompileInputs.cache
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.dll
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/refint/app.dll
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.pdb
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/app.genruntimeconfig.cache
+/Users/rafa22/Desktop/app/obj/Debug/net6.0/ref/app.dll
